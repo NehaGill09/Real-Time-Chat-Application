@@ -1,5 +1,0 @@
-RequestNumber,Title,Description,Category,Priority,Status,RequesterEmail,AssignedTo
-REQ-1001,Monitor request,Need an external monitor for my workstation,Equipment,Normal,New,alex@example.com,
-REQ-1002,Account access,Need access to the approved project workspace,Access,High,Assigned,jamie@example.com,it-support@example.com
-REQ-1003,New starter checklist,Need the onboarding checklist for a new team member,Onboarding,Low,In Progress,taylor@example.com,people-ops@example.com
-REQ-1004,General process question,Where can I find the remote-work policy,General,Low,Completed,morgan@example.com,service-desk@example.com
